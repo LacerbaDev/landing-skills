@@ -19,7 +19,7 @@
 	img,
 		svg {
 				width: 100%;
-				max-width: 320px;
+				max-width: 360px;
 				height: auto;
 				margin: 0 auto;
 				overflow: visible;
@@ -54,19 +54,19 @@
 
 				&:nth-child(even) {
 					.feature-img {
-						right: 140px;
+						right: 110px;
 					}
 					
 				} 
 	
 				&:nth-child(odd) {
 					.feature-img {
-						left: 140px;
+						left: 110px;
 					}
 				} 
 
 				.feature-img {
-					top: 100px;
+					top: 60px;
 				}
 
 				&:nth-child(even) {
